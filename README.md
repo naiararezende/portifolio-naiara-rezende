@@ -1,4 +1,4 @@
-# protifolio-naiara-rezende
+# portifolio-naiara-rezende
 projeto final pretalab
 portifólio criado no ciclo básico de formação pretalab "o poder do futuro"
 
