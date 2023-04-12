@@ -154,12 +154,6 @@ line-height: 26px;
     width: 100%;
 }
 
-.square {
-    width: 15rem;
-    height: 15rem;
-    background: #e5e353;
-   } 
-
 .lista-descricao{
     font-size: 18px;
     line-height: 26px;
@@ -190,9 +184,8 @@ line-height: 26px;
 
 .lista-rodape li{
 color:#EDEAEA;
-font-weight: ;
 font-size: 17px;
-margin-bottom: 16px;
+margin-bottom: 12px;
 display: flex;
 align-items: center;
 }
@@ -200,4 +193,10 @@ align-items: center;
 .estilo-icone{
 font-size: 32px;
 margin-right: 10px;
+}
+
+.link{
+    color: #EDEAEA;
+    font-size: 17px;
+    text-decoration: inherit;
 }
